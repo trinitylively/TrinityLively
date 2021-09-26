@@ -3,7 +3,7 @@
 ---
 
 ### Category Name 1 
-Hot Spot Analysis - Chicago, IL (/sample_page)
+Hot Spot Analysis - Chicago, IL (/Capture2.PNG)
 <img src="C:/Users/trini/Desktop/Capture2.PNG?raw=true"/>
 
 ---
