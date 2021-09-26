@@ -2,25 +2,13 @@
 
 ---
 
-### Category Name 1 
-Final Project for Fall 2020
-<img src="Capture2.PNG"/>
-
----
-Final Project for Spring 2021 (Abundance of Medical Marijuana Dispensaries and Grows in Pittsburg County, OK)
-<img src="Abundance of Medical Marijuana Dispensaries and Grows in Pittsburg County^J Ok.pdf"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 
-### Category Name 2
+### Graduate School Final Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [Child Abuse and Neglect by Oklahoma County](http://example.com/)
+- [Abundance of Medical Marijuana Dispensaries and Grow Locations in Pittsburg County, Oklahoma](http://example.com/)
+- [Walkshed Analysis of Public Storm Shelters in Wilburton, Oklahoma](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
