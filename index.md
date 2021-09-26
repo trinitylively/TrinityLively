@@ -3,12 +3,12 @@
 ---
 
 ### Category Name 1 
-Hot Spot Analysis - Chicago, IL (/Capture2.PNG)
+Hot Spot Analysis - Chicago, IL 
 <img src="Capture2.PNG"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Final Project for Spring 2021
+<img src="Abundance of Medical Marijuana Dispensaries and Grows in Pittsburg County^J Ok.pdf"/>
 
 ---
 [Project 3 Title](http://example.com/)
