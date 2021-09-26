@@ -3,11 +3,11 @@
 ---
 
 ### Category Name 1 
-Hot Spot Analysis - Chicago, IL 
+Final Project for Fall 2020
 <img src="Capture2.PNG"/>
 
 ---
-Final Project for Spring 2021
+Final Project for Spring 2021 (Abundance of Medical Marijuana Dispensaries and Grows in Pittsburg County, OK)
 <img src="Abundance of Medical Marijuana Dispensaries and Grows in Pittsburg County^J Ok.pdf"/>
 
 ---
