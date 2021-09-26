@@ -3,9 +3,8 @@
 ---
 
 ### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Hot Spot Analysis - Chicago, IL (/sample_page)
+<img src=""C:/Users/trini/Desktop/Capture2.PNG"?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
