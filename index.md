@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 Hot Spot Analysis - Chicago, IL (/sample_page)
-<img src=""C:/Users/trini/Desktop/Capture2.PNG"?raw=true"/>
+<img src="C:/Users/trini/Desktop/Capture2.PNG?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
