@@ -6,8 +6,8 @@
 
 ### Graduate School Final Projects
 
-- [Child Abuse and Neglect by Oklahoma County]
-<img src=" />
+- [Child Abuse and Neglect by Oklahoma County](https://github.com/trinitylively/TrinityLively/blob/39e925c55bf6989243d3ad74154cf748c45b3203/pdf/GIS%20Final%20Project-combined.pdf)
+
 - [Abundance of Medical Marijuana Dispensaries and Grow Locations in Pittsburg County, Oklahoma](http://example.com/)
 - [Walkshed Analysis of Public Storm Shelters in Wilburton, Oklahoma](http://example.com/)
 - [Project 4 Title](http://example.com/)
