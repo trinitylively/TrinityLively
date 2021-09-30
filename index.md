@@ -4,7 +4,7 @@
 -[Child Abuse and Neglect - Oklahoma]
 <img src="images/OK Child Abuse Image.PNG"/>
 
-
+-[Wilburton, Oklahoma Storm Shelter Walkshed]<img src="images/StormShelterImage.PNG"/>
 
 
 ### Projects
