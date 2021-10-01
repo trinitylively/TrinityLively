@@ -7,8 +7,8 @@
 - [Wilburton, Oklahoma Storm Shelter Walkshed]
 <img src="images/StormShelterImage.PNG"/>
 
-- [Hazardous Waste Sites]
-<img src="images/Hazardous Waste Sites  - Cloropleth Map.pdf"/>
+- [Excel Data Graphing]
+<img src="images/Excel Data Graphing.png"/>
 
 ### Projects
 
