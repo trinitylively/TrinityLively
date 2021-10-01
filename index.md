@@ -10,7 +10,7 @@
 
 ### Projects
 
-- [Child Abuse and Neglect by Oklahoma County](https://github.com/trinitylively/TrinityLively/blob/0b4e1cab3c3bece81fc29461f9c1ce4c962df59d/pdf/Abundance%20of%20Medical%20Marijuana%20Dispensaries%20and%20Grows%20in%20Pittsburg%20County%5EJ%20Ok.pdf)
+- [![Oklahoma Child Abuse & Neglect](images/OK Child Abuse Image.PNG)](pdf/GIS Final Project-combined.pdf)
 
 - [Abundance of Medical Marijuana Dispensaries & Grow Operations in Pittsburg County, Ok ](https://github.com/trinitylively/TrinityLively/blob/62f45154a3553bc4e42c7e13ff9bf5ee3772393c/pdf/Abundance%20of%20Medical%20Marijuana%20Dispensaries%20and%20Grows%20in%20Pittsburg%20County%5EJ%20Ok.pdf)
 
