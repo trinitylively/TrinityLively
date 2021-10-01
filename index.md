@@ -10,6 +10,9 @@
 - [Hazardous Waste Sites]
 <img src="images/Hazardous Waste Sites  - Cloropleth Map-1.png"/>
 
+- [Excel Population Pyramid]
+<img src="images/Panama City Florida Population Pyramid-1.png"/>
+
 - [Excel Data Graphing]
 <img src="images/Excel Data Graphing.png"/>
 
