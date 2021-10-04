@@ -23,7 +23,6 @@
 
 - [Abundance of Medical Marijuana Dispensaries & Grow Operations in Pittsburg County, Ok ](https://github.com/trinitylively/TrinityLively/blob/62f45154a3553bc4e42c7e13ff9bf5ee3772393c/pdf/Abundance%20of%20Medical%20Marijuana%20Dispensaries%20and%20Grows%20in%20Pittsburg%20County%5EJ%20Ok.pdf)
 
-
 - [Walkshed Analysis of Public Storm Shelters in Wilburton, Oklahoma](https://github.com/trinitylively/TrinityLively/blob/dfea8c598f3f9d3316fa687e0e976082b03b96e1/pdf/StormShelter%20Report.pdf)
 
 - [Population Density - Pittsburg County, Oklahoma](https://arcg.is/1f1mq)
@@ -32,7 +31,7 @@
 
 - [Welcome to Italy! Story Map](https://arcg.is/1PCSKm)
 
-
+- [Google Earth Engine Split Panel App](https://trinitylively.users.earthengine.app/view/split-panel-app)
 
 
 
